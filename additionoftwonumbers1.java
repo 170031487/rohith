@@ -1,5 +1,5 @@
 import java.io.*;
-import.java.util.Scanner;
+import java.util.Scanner;
 public class additionoftwonumbers1{
 public static void main(String[]args)
 {
